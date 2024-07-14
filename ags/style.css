@@ -1,0 +1,43 @@
+/*gray: #282c34;*/
+/*red: #e06c75;*/
+/*green: #98c379;*/
+/*yellow: #e5c07b;*/
+/*blue: #61afef;*/
+/*purple: #c678dd;*/
+/*cyan: #56b6c2;*/
+/*light-gray: #abb2bf;*/
+
+* {
+  font-family: "JetBrainsMono Nerd Font Mono";
+  font-size: 12px;
+}
+
+window.bar {
+  background-color: #1d2021;
+}
+
+.workspaces button {
+  color: white;
+  border: none;
+  min-width: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 13px;
+  padding-right: 13px;
+  background: transparent;
+  background-color: transparent;
+  border-radius: 0px;
+}
+
+.media button {
+  color: white;
+  border: none;
+  background: transparent;
+  background-color: transparent;
+  margin: 3px;
+}
+
+.workspaces button.focused {
+  border: none;
+  background-color: #61afef;
+}
