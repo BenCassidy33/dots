@@ -12,5 +12,6 @@
 !/hypr/
 !/i3/
 
+!.zshrc
 !.gitmodules
 !.gitignore
