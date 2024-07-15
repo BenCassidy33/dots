@@ -13,5 +13,7 @@
 !/i3/
 
 !.zshrc
+!.tmux.conf
+!.p10k.zsh
 !.gitmodules
 !.gitignore
